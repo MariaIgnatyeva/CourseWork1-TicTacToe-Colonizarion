@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe84f684cfcc1f8468cd3cec6561614d
+timeCreated: 1494020224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: attack of the cucumbers
+  fontNames:
+  - attack of the cucumbers
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
